@@ -1,0 +1,40 @@
+# Output
+display 'hello world'
+
+
+# Variables, use _ before variable name
+x = 5
+display _x
+
+y = 'hello world'
+display '_y'
+
+# Input
+
+name = input 'What is your name?'
+lastname = input 'What is your last name?'
+display '_name _lastname'
+
+
+
+#Loops
+
+a = 'hello'
+b = 'world'
+loop 5{
+    display _a
+    loop 10{
+      display _b
+    }
+}
+
+#If statements
+
+x = (((65 - 32) * (5+2)) % 6 > (43+7)/10 - 5) & (((7 * 5 + 3) - 30)/4)^4 < 10*2 & (5*3) >= 15
+
+if x == True{
+    display 'It is true'
+}
+else{
+    display 'It is false'
+}

@@ -1,0 +1,24 @@
+# PRINT
+display
+
+# INPUT
+enter
+
+# IF STATEMENT
+if
+
+# COUNT CONTROLLED LOOP
+
+# CONDITION CONTROLLED LOOP
+
+
+'''
+OPERATION TYPES
+ASSIGNMENT = x=5 DONE FINITO SUCK MA DICk
+OPERATION = 5+3 SIMPLE ONES DONE FINITO SUCK MA DICK
+FUNCTION CALL = function(input)
+LOOP = while x=x
+SELECTION = if a == b
+OUTPUT = display(Hello World) 
+INPUT = enter('What is your name')
+'''

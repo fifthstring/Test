@@ -1,0 +1,25 @@
+var snum randnum 1 20
+
+say snum
+
+var g 5
+
+loop 10
+
+clear screen
+
+say number of guesses left: g
+
+guess input what do you guess?
+
+
+if guess is snum say you win and stop loop
+if guess isnt snum say wrong and do g - 1
+if g < 1 say you lose it was snum and stop loop
+sleep 1
+
+end loop
+
+
+end
+'
